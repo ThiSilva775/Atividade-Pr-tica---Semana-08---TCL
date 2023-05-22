@@ -1,8 +1,3 @@
-Curso de Engenharia de Software - UniEVANGÉLICA 
-Disciplina de Sisetmas Gerenciadores de Banco de Dados
-Dev: Thiago Silva Soares
-DATA : 21/05/2023
-
 BEGIN TRANSACTION; -- Inicia a transação
 
 INSERT INTO Usuario (nome, email, senha, altura, peso, objetivo) -- Insere um novo usuário na tabela Usuario
